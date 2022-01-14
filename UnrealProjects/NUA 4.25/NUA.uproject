@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7604EF35-4D28-E787-C071-01B2397C8F3B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "NUA",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
